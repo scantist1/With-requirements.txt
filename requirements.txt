@@ -1,5 +1,5 @@
+PyJWT==1.5.1
 django==2.2.18
-PyJWT==0.4.2
 requests==2.2.1
 feedparser==5.1.1
 Flask==1.0
