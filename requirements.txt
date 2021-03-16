@@ -2,5 +2,5 @@ PyJWT==1.5.1
 django==2.2.18
 requests==2.2.1
 feedparser==5.1.1
+pycrypto==2.6.1
 Flask==1.0
-pycrypto==2.4
